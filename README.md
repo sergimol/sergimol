@@ -77,7 +77,7 @@ A plugin to incorporate a DDA system to any Unity project. The repository includ
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sergimol's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sergimol&show_icons=true&include_all_commits=true&count_private=true&theme=react&border_color=ec7c26&bg_color=0a0a0a&title_color=ec7c26&icon_color=ffead8" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sergimol's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sergimol&langs_count=8&layout=compact&theme=react&border_color=ec7c26&bg_color=0a0a0a&title_color=ec7c26&icon_color=ffead8&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sergimol's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sergimol&langs_count=8&layout=compact&theme=react&border_color=ec7c26&bg_color=0a0a0a&title_color=ec7c26&icon_color=ffead8&hide=Jupyter%20Notebook,Roff,JavaScript,ShaderLab" height="192px"/></a>
 <!--
 **sergimol/sergimol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
